@@ -138,12 +138,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Cards.h" />
     <ClInclude Include="FieldClass.h" />
     <ClInclude Include="GraczClass.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Field.cpp" />
+    <ClCompile Include="Glowny.cpp" />
     <ClCompile Include="Gracz.cpp" />
+    <ClCompile Include="Kards.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

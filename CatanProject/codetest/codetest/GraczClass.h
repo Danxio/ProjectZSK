@@ -19,6 +19,8 @@ class Gracz {
 	unsigned int karty{ 0 };
 	//iloœæ punktów zwyciêstwa
 	unsigned int pkt{ 0 };
+	bool najdldroga = false;
+	bool najwrycerz = false;
 public:
 	//ustawianie surowców
 	void setzboze(unsigned int Z);
@@ -26,6 +28,12 @@ public:
 	void setdrewno(unsigned int D);
 	void setcegla(unsigned int C);
 	void setowca(unsigned int O);
+	//Dodawanie surwców
+	void addzboze();
+	void addzelazo();
+	void adddrewno();
+	void addcegla();
+	void addowca();
 	//wyœwietlanie surowców
 	unsigned int getzboze();
 	unsigned int getzelazo();
@@ -44,4 +52,12 @@ public:
 	void BudowaOsady();
 	void BudowaMiasta();
 	void DoburKarty();
+	//Ustawianie punktów zwyciêstwa
+	void Dodajpkt();
+	void Najdlreog();
+	void Najwryce();
+	void Stratadrog();
+	void StrataRyc();
+	//Sprawdzanie pkt zwyciêstwa
+	unsigned int Ilepkt();
 };
