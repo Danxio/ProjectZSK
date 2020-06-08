@@ -1,0 +1,119 @@
+﻿  Main.cpp
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(9): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(33): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(39): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(41): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(49): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(51): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(59): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(61): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(69): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(71): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(79): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(81): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(89): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(103): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(568): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(598): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(909): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(919): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(929): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(939): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(951): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(960): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(969): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(978): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(989): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(999): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1009): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1019): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1050): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1076): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1078): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1088): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1098): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1108): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1119): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1151): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1158): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1165): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1172): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1180): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1227): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1234): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1241): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1248): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1256): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1306): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1315): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1324): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1334): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1343): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1352): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1362): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1371): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1380): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1390): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1399): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\daniel\desktop\programowanie\catanproject\catanproject\main.cpp(1408): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CatanProject.vcxproj -> C:\Users\Daniel\Desktop\Programowanie\CatanProject\x64\Debug\CatanProject.exe
